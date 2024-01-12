@@ -90,7 +90,7 @@ chat GPT에게 적절한 응답을 얻기 위해 질문하여 원하는 답을 �
 #### CLI에서 자주 쓰이는 기초 명령어
 
 - **cd** : change directory
-  - **cd ~**: home directory로 이동
+  - **cd ~** : home directory로 이동
 - **pwd**: 터미널이 가리키는 현재 폴더 위치를 full path로 표시
 - **ls**: 현재 디렉토리 파일과 폴더 리스트 출력
   - **ls -a**: 안보이던 파일까지 전부 표시(숨김파일)
